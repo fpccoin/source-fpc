@@ -1,0 +1,9 @@
+Building fpc
+
+See doc/readme-qt.rst for instructions on building fpc QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of fpc.
+
+See doc/build-*.txt for instructions on building fpcd,
+the intended-for-services, no-graphical-interface, reference
+implementation of fpc.
